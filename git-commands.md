@@ -5,3 +5,4 @@ git status 	#查看工作区和暂存区的文件状态
 git diff	#查看工作区与暂存区的差异
 git add<filr>	#将文件添加到暂存区
 git commit -s	#将暂存区的变更提交到本地仓库
+git remote -v  	#查看远程连接地址
